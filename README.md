@@ -1,9 +1,22 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<h1 align="left">Hi 👋, I'm Vathana</h1>
-<p>&nbsp;
-  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=vathanatork&show_icons=true&locale=en" alt="vathanatork"/>
-  <img align="right" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathanatork&layout=compact" alt="vathanatork"/>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Vathana+Tork!" alt="Vathana Tork" /></a>
+</h1>
+<h2 align="center">Software Engineer 🛠️| Full Stack Web Developer 👨‍💻 | API Developer 🌐 </h3>
+
+<div align="center" style="display: block;">
+    <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
+</div>
+
+<hr>
+<h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,laravel,aws,firebase,bootstrap,html,css,tailwind,vscode,figma,git,js,postman,java,php,mysql,github,gitlab,vscode,visualstudio,windows,linux" 
+ </p>
+
 
 
 
